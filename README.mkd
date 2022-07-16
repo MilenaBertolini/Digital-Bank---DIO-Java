@@ -1,0 +1,3 @@
+Escopo de um Banco Digital desenvolvido como Desafio de Projeto para a DIO TQI Fullstack Developer.
+
+Criado com linguagem Java e Orientação á Objetos.
